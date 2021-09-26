@@ -176,9 +176,10 @@
             csubmitForm();
         }
     });
-       /*Formulario de contacto*/
 
-       var config = {
+    /*Formulario de contacto*/
+
+    var config = {
         apiKey: "AIzaSyAgPQUMLzNQLDDyWKhVxx2RUEQZN8ZSAds",
         authDomain: "portafolio-contacto-9a86c.firebaseapp.com",
         projectId: "portafolio-contacto-9a86c",
