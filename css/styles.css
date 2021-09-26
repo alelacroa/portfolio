@@ -1092,7 +1092,6 @@ video
 	transform: scale(1.15);
 } 
 
-
 .filter .element-item .element-item-overlay { 
 	position: absolute;
 	z-index: 2;
@@ -1210,7 +1209,7 @@ video
 
 .form-2 .section-title {
 	margin-bottom: 0.5rem;
- }
+}
 
 .form-2 h2 {
 	margin-bottom: 1.375rem;
@@ -1310,7 +1309,6 @@ video
 	text-decoration: none;
 }
 
-
 /**********************************/
 /*     Back To Top Button     */
 /**********************************/
@@ -1331,7 +1329,6 @@ a.back-to-top {
 a:hover.back-to-top {
 	background-color: #070222; 
 }
-
 
 /***************************/
 /*     Extra Pages     */
@@ -1397,7 +1394,6 @@ a:hover.back-to-top {
 	margin-top: 1.75rem;
 }
 
-
 /*****************************/
 /*     Media Queries     */
 /*****************************/	
@@ -1410,8 +1406,6 @@ a:hover.back-to-top {
 		margin-right: auto;
 		margin-left: auto;
 	}
-
-
 
 	/* Navigation */
 	.navbar-custom {
