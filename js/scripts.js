@@ -266,6 +266,3 @@ window.addEventListener('load', function(){
     newVideo.play();
 
 });
-
-
-

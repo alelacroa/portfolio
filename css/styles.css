@@ -921,13 +921,15 @@ video
 	background-size: 6rem 6rem;
 }
 
+
 .cards-1 .fa-stack-1x {
 	color: #fff;
 	font-size: 2rem;
 }
 
+
 .cards-1 .card-body {
-	padding: 0;
+	padding: 0,5rem;
 }
 
 .cards-1 .card-title {
@@ -1011,6 +1013,7 @@ video
 
 .cards-2 .btn-solid-reg:hover {
 	background-color: #fff;
+	letter-spacing: 2px;
 }
 
 
@@ -1941,3 +1944,5 @@ a:hover.back-to-top {
 	/* end of navigation */
 }
 /* end of min-width width 1200px */
+
+
