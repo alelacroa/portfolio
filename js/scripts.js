@@ -264,4 +264,6 @@ window.addEventListener('load', function(){
     }, false);
 
     newVideo.play();
+});
+
 
